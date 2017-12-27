@@ -1,0 +1,36 @@
+
+State Machine - |Pov_Led_FPGA|Qsys_system:Qsys_system_Init|my9262:my9262|my9262_logic:my9262_logic_init|my9262_Fsm_Cs
+Name my9262_Fsm_Cs.my9262_Fsm_Finish my9262_Fsm_Cs.my9262_Fsm_Latch my9262_Fsm_Cs.my9262_Fsm_Wait my9262_Fsm_Cs.my9262_Fsm_Send_Data my9262_Fsm_Cs.my9262_Fsm_Ready my9262_Fsm_Cs.my9262_Fsm_Idle 
+my9262_Fsm_Cs.my9262_Fsm_Idle 0 0 0 0 0 0 
+my9262_Fsm_Cs.my9262_Fsm_Ready 0 0 0 0 1 1 
+my9262_Fsm_Cs.my9262_Fsm_Send_Data 0 0 0 1 0 1 
+my9262_Fsm_Cs.my9262_Fsm_Wait 0 0 1 0 0 1 
+my9262_Fsm_Cs.my9262_Fsm_Latch 0 1 0 0 0 1 
+my9262_Fsm_Cs.my9262_Fsm_Finish 1 0 0 0 0 1 
+
+State Machine - |Pov_Led_FPGA|Qsys_system:Qsys_system_Init|my9262:my9262|my9262_logic:my9262_logic_init|lat_Fsm_Cs
+Name lat_Fsm_Cs.lat_Fsm_Idle lat_Fsm_Cs.lat_Fsm_Overrall_Latch lat_Fsm_Cs.lat_Fsm_Wait 
+lat_Fsm_Cs.lat_Fsm_Idle 0 0 0 
+lat_Fsm_Cs.lat_Fsm_Wait 1 0 1 
+lat_Fsm_Cs.lat_Fsm_Overrall_Latch 1 1 0 
+
+State Machine - |Pov_Led_FPGA|Qsys_system:Qsys_system_Init|my9262:my9262|my9262_logic:my9262_logic_init|command_Fsm_Cs
+Name command_Fsm_Cs.command_Fsm_Idle command_Fsm_Cs.command_Fsm_Data command_Fsm_Cs.command_Fsm_Config 
+command_Fsm_Cs.command_Fsm_Idle 0 0 0 
+command_Fsm_Cs.command_Fsm_Config 1 0 1 
+command_Fsm_Cs.command_Fsm_Data 1 1 0 
+
+State Machine - |Pov_Led_FPGA|Qsys_system:Qsys_system_Init|my9262:my9262|my9262_logic:my9262_logic_init|data_Fsm_Cs
+Name data_Fsm_Cs.data_Fsm_Idle data_Fsm_Cs.data_Fsm_Send data_Fsm_Cs.data_Fsm_Config 
+data_Fsm_Cs.data_Fsm_Idle 0 0 0 
+data_Fsm_Cs.data_Fsm_Config 1 0 1 
+data_Fsm_Cs.data_Fsm_Send 1 1 0 
+
+State Machine - |Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_nios2_qsys:nios2_qsys|Qsys_system_nios2_qsys_nios2_oci:the_Qsys_system_nios2_qsys_nios2_oci|Qsys_system_nios2_qsys_jtag_debug_module_wrapper:the_Qsys_system_nios2_qsys_jtag_debug_module_wrapper|Qsys_system_nios2_qsys_jtag_debug_module_tck:the_Qsys_system_nios2_qsys_jtag_debug_module_tck|DRsize
+Name DRsize.101 DRsize.100 DRsize.011 DRsize.010 DRsize.001 DRsize.000 
+DRsize.000 0 0 0 0 0 0 
+DRsize.001 0 0 0 0 1 1 
+DRsize.010 0 0 0 1 0 1 
+DRsize.011 0 0 1 0 0 1 
+DRsize.100 0 1 0 0 0 1 
+DRsize.101 1 0 0 0 0 1 

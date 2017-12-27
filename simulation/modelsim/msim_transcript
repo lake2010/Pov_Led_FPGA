@@ -1,0 +1,89 @@
+# Reading D:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# do Pov_Led_FPGA_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying D:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied D:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlib Qsys_system
+# vmap Qsys_system Qsys_system
+# Modifying modelsim.ini
+# vlog -vlog01compat -work Qsys_system +incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis {E:/Pov_Led_FPGA/Qsys_system/synthesis/Qsys_system.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Qsys_system
+# 
+# Top level modules:
+# 	Qsys_system
+# vlog -vlog01compat -work Qsys_system +incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules {E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/altera_reset_controller.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module altera_reset_controller
+# 
+# Top level modules:
+# 	altera_reset_controller
+# vlog -vlog01compat -work Qsys_system +incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules {E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/altera_reset_synchronizer.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module altera_reset_synchronizer
+# 
+# Top level modules:
+# 	altera_reset_synchronizer
+# vlog -vlog01compat -work Qsys_system +incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules {E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_mm_interconnect_0.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Qsys_system_mm_interconnect_0
+# 
+# Top level modules:
+# 	Qsys_system_mm_interconnect_0
+# vlog -vlog01compat -work Qsys_system +incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules {E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_epcs_flash.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Qsys_system_epcs_flash_sub
+# -- Compiling module Qsys_system_epcs_flash
+# 
+# Top level modules:
+# 	Qsys_system_epcs_flash
+# vlog -vlog01compat -work Qsys_system +incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules {E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_Hal249.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Qsys_system_Hal249
+# 
+# Top level modules:
+# 	Qsys_system_Hal249
+# vlog -vlog01compat -work Qsys_system +incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules {E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_Led.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Qsys_system_Led
+# 
+# Top level modules:
+# 	Qsys_system_Led
+# vlog -vlog01compat -work Qsys_system +incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules {E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_sysid_qsys.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Qsys_system_sysid_qsys
+# 
+# Top level modules:
+# 	Qsys_system_sysid_qsys
+# vlog -vlog01compat -work Qsys_system +incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules {E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_jtag_uart.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Qsys_system_jtag_uart_sim_scfifo_w
+# -- Compiling module Qsys_system_jtag_uart_scfifo_w
+# -- Compiling module Qsys_system_jtag_uart_sim_scfifo_r
+# -- Compiling module Qsys_system_jtag_uart_scfifo_r
+# -- Compiling module Qsys_system_jtag_uart
+# 
+# Top level modules:
+# 	Qsys_system_jtag_uart
+# vlog -vlog01compat -work Qsys_system +incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules {E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_onchip_ram.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Qsys_system_onchip_ram
+# 
+# Top level modules:
+# 	Qsys_system_onchip_ram
+# vlog -vlog01compat -work work +incdir+E:/Pov_Led_FPGA {E:/Pov_Led_FPGA/Pov_Led_FPGA.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Pov_Led_FPGA
+# ** Error: E:/Pov_Led_FPGA/Pov_Led_FPGA.v(8): near ")": Missing port in ansi port list.
+# ** Error: D:/altera/13.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./Pov_Led_FPGA_run_msim_rtl_vhdl.do line 20
+# D:/altera/13.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -vlog01compat -work work +incdir+E:/Pov_Led_FPGA {E:/Pov_Led_FPGA/Pov_Led_FPGA.v}"

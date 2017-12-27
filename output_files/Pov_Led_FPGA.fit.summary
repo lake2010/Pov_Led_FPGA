@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Dec 27 00:43:27 2017
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : Pov_Led_FPGA
+Top-level Entity Name : Pov_Led_FPGA
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 3,589 / 6,272 ( 57 % )
+    Total combinational functions : 3,259 / 6,272 ( 52 % )
+    Dedicated logic registers : 2,130 / 6,272 ( 34 % )
+Total registers : 2130
+Total pins : 12 / 92 ( 13 % )
+Total virtual pins : 0
+Total memory bits : 153,280 / 276,480 ( 55 % )
+Embedded Multiplier 9-bit elements : 4 / 30 ( 13 % )
+Total PLLs : 1 / 2 ( 50 % )

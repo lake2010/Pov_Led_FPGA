@@ -1,0 +1,735 @@
+!SESSION 2017-11-30 23:04:35.584 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-30 23:09:26.950
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 62 headers) in 0.73 sec: 2,392 declarations; 2,235 references; 5 unresolved inclusions; 2 syntax errors; 13 unresolved names (0.28%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-30 23:09:27.794
+!MESSAGE Indexed 'Pov_Led_FPGA_bsp' (82 sources, 130 headers) in 0.84 sec: 4,605 declarations; 6,296 references; 0 unresolved inclusions; 3 syntax errors; 18 unresolved names (0.16%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-30 23:11:08.981
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 62 headers) in 0.19 sec: 2,392 declarations; 2,235 references; 5 unresolved inclusions; 2 syntax errors; 13 unresolved names (0.28%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-30 23:13:46.540
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 62 headers) in 0.16 sec: 2,392 declarations; 2,235 references; 5 unresolved inclusions; 2 syntax errors; 13 unresolved names (0.28%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-30 23:14:25.215
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 72 headers) in 0.19 sec: 2,458 declarations; 2,422 references; 0 unresolved inclusions; 2 syntax errors; 7 unresolved names (0.14%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-30 23:14:31.857
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 72 headers) in 0.17 sec: 2,458 declarations; 2,422 references; 0 unresolved inclusions; 2 syntax errors; 7 unresolved names (0.14%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-30 23:14:35.170
+!MESSAGE Indexed 'Pov_Led_FPGA_bsp' (82 sources, 129 headers) in 0.41 sec: 4,480 declarations; 5,926 references; 0 unresolved inclusions; 2 syntax errors; 14 unresolved names (0.13%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-30 23:15:30.624
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 72 headers) in 0.19 sec: 2,458 declarations; 2,422 references; 0 unresolved inclusions; 2 syntax errors; 7 unresolved names (0.14%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-30 23:15:43.262
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 72 headers) in 0.17 sec: 2,458 declarations; 2,422 references; 0 unresolved inclusions; 2 syntax errors; 7 unresolved names (0.14%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-30 23:20:39.505
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 72 headers) in 0.17 sec: 2,452 declarations; 2,386 references; 0 unresolved inclusions; 2 syntax errors; 6 unresolved names (0.12%)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-11-30 23:22:37.724
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-11-30 23:22:37.724
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-30 23:23:02.759
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 72 headers) in 0.17 sec: 2,457 declarations; 2,412 references; 0 unresolved inclusions; 2 syntax errors; 6 unresolved names (0.12%)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-11-30 23:24:52.398
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-11-30 23:24:52.398
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 01:10:29.034
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 01:10:29.034
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-12-01 01:10:43.453
+!MESSAGE Indexed 'Pov_Led_FPGA_bsp' (82 sources, 129 headers) in 0.41 sec: 4,480 declarations; 5,926 references; 0 unresolved inclusions; 2 syntax errors; 14 unresolved names (0.13%)
+!SESSION 2017-12-01 01:14:34.047 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-12-01 01:15:43.367
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 74 headers) in 0.53 sec: 2,632 declarations; 2,536 references; 1 unresolved inclusions; 2 syntax errors; 6 unresolved names (0.12%)
+!SESSION 2017-12-01 01:22:20.080 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-12-01 01:31:53.048
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 76 headers) in 0.38 sec: 2,638 declarations; 2,542 references; 0 unresolved inclusions; 2 syntax errors; 6 unresolved names (0.12%)
+!SESSION 2017-12-01 12:09:48.227 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-12-01 12:09:50.603
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-12-01 12:10:44.231
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 76 headers) in 0.40 sec: 2,629 declarations; 2,515 references; 0 unresolved inclusions; 2 syntax errors; 6 unresolved names (0.12%)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 12:36:31.220
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 12:36:31.222
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 12:36:31.914
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 12:36:31.915
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 12:36:33.549
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 12:36:33.549
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 12:37:18.194
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 12:37:18.196
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-12-01 13:55:55.203 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 13:56:12.400
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 13:56:12.405
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-12-01 16:10:30.425 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-12-01 16:11:36.800
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 76 headers) in 0.38 sec: 2,633 declarations; 2,516 references; 0 unresolved inclusions; 2 syntax errors; 6 unresolved names (0.12%)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 16:19:04.627
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 16:19:04.627
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 16:19:16.410
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --instance=-1 --stop]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 16:19:17.879
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --instance=-1, --stop] return code: 16
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 16:19:17.957
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --instance=-1 --go --sidp=0x1818 --id=0x0 --timestamp=1512115700]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 16:19:19.614
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --instance=-1, --go, --sidp=0x1818, --id=0x0, --timestamp=1512115700] return code: 16
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 16:19:19.614
+!MESSAGE Downloading ELF Process failed
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 16:19:36.461
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 16:19:36.461
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-12-01 16:33:56.639 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-12-01 16:37:11.659
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 76 headers) in 0.39 sec: 2,629 declarations; 2,515 references; 0 unresolved inclusions; 2 syntax errors; 6 unresolved names (0.12%)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 16:37:23.540
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: System timestamp mismatch - connected: "1512115700", expected: "1512117103".
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:631)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 16:37:23.546
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: System timestamp mismatch - connected: "1512115700", expected: "1512117103".
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:631)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 16:42:55.033
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-01 16:42:55.033
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 16:45:14.594
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 16:45:16.867
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 16:55:45.412
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 16:55:46.037
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 16:55:48.162
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --tcpport=auto --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY org.eclipse.ui 4 4 2017-12-01 16:55:52.636
+!MESSAGE Exception in org.eclipse.ui.internal.PageLayout.stackView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.cdt.debug.ui.DisassemblyView
+
+!ENTRY org.eclipse.ui 4 4 2017-12-01 16:55:52.636
+!MESSAGE Exception in org.eclipse.ui.internal.PageLayout.stackView: org.eclipse.ui.PartInitException: Could not create view: org.eclipse.cdt.debug.ui.DisassemblyView
+!STACK 1
+org.eclipse.ui.PartInitException: Could not create view: org.eclipse.cdt.debug.ui.DisassemblyView
+	at org.eclipse.ui.internal.ViewFactory.createView(ViewFactory.java:158)
+	at org.eclipse.ui.internal.LayoutHelper.createView(LayoutHelper.java:162)
+	at org.eclipse.ui.internal.PageLayout.createView(PageLayout.java:554)
+	at org.eclipse.ui.internal.PageLayout.stackView(PageLayout.java:863)
+	at org.eclipse.ui.internal.registry.PerspectiveExtensionReader.processView(PerspectiveExtensionReader.java:270)
+	at org.eclipse.ui.internal.registry.PerspectiveExtensionReader.processExtension(PerspectiveExtensionReader.java:118)
+	at org.eclipse.ui.internal.registry.PerspectiveExtensionReader.readElement(PerspectiveExtensionReader.java:355)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readExtension(RegistryReader.java:155)
+	at org.eclipse.ui.internal.registry.RegistryReader.readRegistry(RegistryReader.java:176)
+	at org.eclipse.ui.internal.registry.PerspectiveExtensionReader.extendLayout(PerspectiveExtensionReader.java:82)
+	at org.eclipse.ui.internal.Perspective.loadPredefinedPersp(Perspective.java:818)
+	at org.eclipse.ui.internal.Perspective.createPresentation(Perspective.java:270)
+	at org.eclipse.ui.internal.Perspective.<init>(Perspective.java:156)
+	at org.eclipse.ui.internal.tweaklets.Workbench3xImplementation.createPerspective(Workbench3xImplementation.java:55)
+	at org.eclipse.ui.internal.WorkbenchPage.createPerspective(WorkbenchPage.java:1748)
+	at org.eclipse.ui.internal.WorkbenchPage.busySetPerspective(WorkbenchPage.java:1108)
+	at org.eclipse.ui.internal.WorkbenchPage.access$16(WorkbenchPage.java:1099)
+	at org.eclipse.ui.internal.WorkbenchPage$19.run(WorkbenchPage.java:3814)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchPage.setPerspective(WorkbenchPage.java:3812)
+	at org.eclipse.ui.internal.Workbench.showPerspective(Workbench.java:2875)
+	at org.eclipse.debug.internal.ui.launchConfigurations.PerspectiveManager.switchToPerspective(PerspectiveManager.java:316)
+	at org.eclipse.debug.internal.ui.launchConfigurations.PerspectiveManager$4.runInUIThread(PerspectiveManager.java:395)
+	at org.eclipse.ui.progress.UIJob$1.run(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1386)
+!SUBENTRY 1 org.eclipse.ui 4 0 2017-12-01 16:55:52.636
+!MESSAGE Could not create view: org.eclipse.cdt.debug.ui.DisassemblyView
+
+!ENTRY org.eclipse.cdt.debug.mi.core 4 42 2017-12-01 16:56:44.862
+!MESSAGE Internal Error
+!STACK 0
+org.eclipse.cdt.debug.mi.core.cdi.MI2CDIException: Inferior terminated[]
+	at org.eclipse.cdt.debug.mi.core.cdi.SharedLibraryManager.getMIShareds(SharedLibraryManager.java:123)
+	at org.eclipse.cdt.debug.mi.core.cdi.SharedLibraryManager.updateState(SharedLibraryManager.java:188)
+	at org.eclipse.cdt.debug.mi.core.cdi.SharedLibraryManager.update(SharedLibraryManager.java:136)
+	at org.eclipse.cdt.debug.mi.core.cdi.EventManager.processSuspendedEvent(EventManager.java:326)
+	at org.eclipse.cdt.debug.mi.core.cdi.EventManager.update(EventManager.java:100)
+	at java.util.Observable.notifyObservers(Unknown Source)
+	at org.eclipse.cdt.debug.mi.core.MISession.notifyObservers(MISession.java:791)
+	at org.eclipse.cdt.debug.mi.core.EventThread.run(EventThread.java:46)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 16:57:11.705
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 16:57:13.813
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --tcpport=auto --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 16:58:30.488
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 16:58:32.669
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 16:58:57.104
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 16:58:57.687
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 16:58:59.799
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --tcpport=auto --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+!SESSION 2017-12-01 17:18:57.740 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:20:28.798
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:20:31.045
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:20:51.331
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:20:51.908
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:20:54.037
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --tcpport=auto --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:21:08.620
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY org.eclipse.cdt.debug.mi.core 4 42 2017-12-01 17:21:08.655
+!MESSAGE Internal Error
+!STACK 0
+org.eclipse.cdt.debug.mi.core.cdi.MI2CDIException: Inferior terminated[]
+	at org.eclipse.cdt.debug.mi.core.cdi.SharedLibraryManager.getMIShareds(SharedLibraryManager.java:123)
+	at org.eclipse.cdt.debug.mi.core.cdi.SharedLibraryManager.updateState(SharedLibraryManager.java:188)
+	at org.eclipse.cdt.debug.mi.core.cdi.SharedLibraryManager.update(SharedLibraryManager.java:136)
+	at org.eclipse.cdt.debug.mi.core.cdi.EventManager.processSuspendedEvent(EventManager.java:326)
+	at org.eclipse.cdt.debug.mi.core.cdi.EventManager.update(EventManager.java:100)
+	at java.util.Observable.notifyObservers(Unknown Source)
+	at org.eclipse.cdt.debug.mi.core.MISession.notifyObservers(MISession.java:791)
+	at org.eclipse.cdt.debug.mi.core.EventThread.run(EventThread.java:46)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:21:09.404
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:21:11.600
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:21:37.253
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:21:37.833
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:21:40.034
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+!SESSION 2017-12-01 17:22:06.987 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:22:24.533
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:22:26.700
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:22:45.724
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:22:46.333
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-01 17:22:48.502
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1818 --id=0x0 --timestamp=1512117103]
+!SESSION 2017-12-07 16:52:09.065 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-07 16:54:27.445
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1818 --id=0x0 --timestamp=1512636521]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-07 16:54:31.379
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1818 --id=0x0 --timestamp=1512636521]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-07 17:02:44.670
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-07 17:02:50.151
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-07 17:02:50.153
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-07 17:03:55.237
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1818 --id=0x0 --timestamp=1512636521]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-07 17:03:59.064
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1818 --id=0x0 --timestamp=1512636521]
+!SESSION 2017-12-07 17:39:53.490 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-07 17:41:03.837
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1818 --id=0x0 --timestamp=1512636521]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-07 17:41:07.581
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1818 --id=0x0 --timestamp=1512636521]
+!SESSION 2017-12-07 19:21:17.971 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-07 19:32:57.611
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1512645431]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-07 19:33:01.496
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1512645431]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-07 19:37:09.056
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-07 19:37:09.978
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1512645431]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-07 19:37:13.755
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1512645431]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-07 19:37:17.317
+!MESSAGE Failed Executing: [nios2-download, '--cable=USB-Blaster on localhost [USB-0]', --device=1, --instance=0, --go, --sidp=0x1828, --id=0x0, --timestamp=1512645431] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-07 19:37:17.319
+!MESSAGE Downloading ELF Process failed
+!SESSION 2017-12-07 22:45:40.279 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-12-07 22:49:18.190
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 78 headers) in 0.44 sec: 2,814 declarations; 2,647 references; 0 unresolved inclusions; 2 syntax errors; 7 unresolved names (0.13%)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-07 22:54:55.438
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1512658361]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-07 22:54:59.398
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1512658361]

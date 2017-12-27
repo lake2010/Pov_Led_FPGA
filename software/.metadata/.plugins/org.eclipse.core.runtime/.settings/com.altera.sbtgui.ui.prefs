@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+newSoftwareExampleWizardPage.defaultLocation=E\:\\Pov_Led_FPGA\\software\\Pov_Led_FPGA
+newSoftwareExampleWizardPage.sopcinfoFile=E\:\\Pov_Led_FPGA\\Qsys_system.sopcinfo
+newSoftwareExampleWizardPage2.newBspLocation=E\:\\Pov_Led_FPGA\\software\\Pov_Led_FPGA_bsp

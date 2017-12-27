@@ -1,0 +1,20 @@
+#include "unistd.h"
+
+#include "my9262.h"
+#include "priv/alt_busy_sleep.h"
+#include "alt_types.h"
+
+extern alt_u32 my9262_addr;
+
+
+void my9262WriteGrayscale(alt_u16 grayscale)
+{
+	alt_u8 i;
+
+	for(i = 0; i < 254;i++)
+	{
+		IOWR_MY9262_CONTROL(MY9262_BASE,1);
+		IOWR_MY9262_DATA(MY9262_BASE, grayscale);
+		usleep(1000);
+	}
+}

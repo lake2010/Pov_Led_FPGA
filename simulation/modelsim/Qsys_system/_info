@@ -1,0 +1,318 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Pov_Led_FPGA\simulation\modelsim
+valtera_reset_controller
+Z1 I10PWD5V^kJfYA7TK`^:]W2
+Z2 Vd6XZeNR]PniX]Sml3E;hm2
+Z3 dE:\Pov_Led_FPGA\simulation\modelsim
+Z4 w1509886827
+Z5 8E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/altera_reset_controller.v
+Z6 FE:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/altera_reset_controller.v
+L0 42
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-vlog01compat -work Qsys_system -O0
+Z9 !s100 _?7N;5WBgE?60>017BBW22
+Z10 !s108 1510990175.422000
+Z11 !s107 E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/altera_reset_controller.v|
+Z12 !s90 -reportprogress|300|-vlog01compat|-work|Qsys_system|+incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules|E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/altera_reset_controller.v|
+Z13 !s92 -vlog01compat -work Qsys_system +incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules -O0
+!i10b 1
+!s85 0
+!s101 -O0
+valtera_reset_synchronizer
+Z14 IEVZ^4607_B0IUO[fWc7[e1
+Z15 V3CjoOZCIEdzCJgPn8]D7`2
+R3
+R4
+Z16 8E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/altera_reset_synchronizer.v
+Z17 FE:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/altera_reset_synchronizer.v
+L0 24
+R7
+r1
+31
+R8
+R13
+Z18 !s100 aRhh9hDiT`Cd^N9c>@O=K0
+Z19 !s108 1510990176.047000
+Z20 !s107 E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/altera_reset_synchronizer.v|
+Z21 !s90 -reportprogress|300|-vlog01compat|-work|Qsys_system|+incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules|E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/altera_reset_synchronizer.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vQsys_system
+Z22 I6OZZiR<PhJIInjl7d^7dQ3
+Z23 VC_z[:@m?ZBWMYT84kolSF2
+R3
+Z24 w1509886770
+Z25 8E:/Pov_Led_FPGA/Qsys_system/synthesis/Qsys_system.v
+Z26 FE:/Pov_Led_FPGA/Qsys_system/synthesis/Qsys_system.v
+L0 6
+R7
+r1
+31
+R8
+Z27 n@qsys_system
+Z28 !s100 kF3jmiVnQ392XmGT0VQl91
+Z29 !s108 1510990174.848000
+Z30 !s107 E:/Pov_Led_FPGA/Qsys_system/synthesis/Qsys_system.v|
+Z31 !s90 -reportprogress|300|-vlog01compat|-work|Qsys_system|+incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis|E:/Pov_Led_FPGA/Qsys_system/synthesis/Qsys_system.v|
+Z32 !s92 -vlog01compat -work Qsys_system +incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis -O0
+!i10b 1
+!s85 0
+!s101 -O0
+vQsys_system_epcs_flash
+Z33 If^0mjSP5aja5M:b3H5oVW1
+Z34 VS3Pm]i[]RCo4<:YGJ35Sm2
+R3
+Z35 w1509886824
+Z36 8E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_epcs_flash.v
+Z37 FE:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_epcs_flash.v
+Z38 L0 424
+R7
+r1
+31
+Z39 !s108 1510990177.154000
+Z40 !s107 E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_epcs_flash.v|
+Z41 !s90 -reportprogress|300|-vlog01compat|-work|Qsys_system|+incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules|E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_epcs_flash.v|
+R8
+R13
+Z42 n@qsys_system_epcs_flash
+Z43 !s100 1;4_jQ1m9V:eNC3>UFT4K1
+!i10b 1
+!s85 0
+!s101 -O0
+vQsys_system_epcs_flash_sub
+Z44 I_VkL=>8Ib<9T=JmZ^1L@Z1
+Z45 VeVgig3M:bL8fKZ<OcocJ]3
+R3
+R35
+R36
+R37
+L0 41
+R7
+r1
+31
+R39
+R40
+R41
+R8
+R13
+Z46 n@qsys_system_epcs_flash_sub
+Z47 !s100 a^9S`jhnMcoYO@>Sm;JAF0
+!i10b 1
+!s85 0
+!s101 -O0
+vQsys_system_Hal249
+Z48 I@jFX;F1U7B94LSc7eB>E21
+Z49 VZEHQOmfcI]VfIYlA7nVT?1
+R3
+Z50 w1509886822
+Z51 8E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_Hal249.v
+Z52 FE:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_Hal249.v
+L0 21
+R7
+r1
+31
+R8
+R13
+Z53 n@qsys_system_@hal249
+Z54 !s100 ;8[zRo0BL9=fdIIYAEC=K2
+Z55 !s108 1510990177.745000
+Z56 !s107 E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_Hal249.v|
+Z57 !s90 -reportprogress|300|-vlog01compat|-work|Qsys_system|+incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules|E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_Hal249.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vQsys_system_jtag_uart
+Z58 I5>g18IfL<NUXG?c:BFI653
+Z59 V:NT7f>RBXzM4eFgH72fl;2
+R3
+Z60 w1509886820
+Z61 8E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_jtag_uart.v
+Z62 FE:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_jtag_uart.v
+Z63 L0 327
+R7
+r1
+31
+Z64 !s108 1510990179.280000
+Z65 !s107 E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_jtag_uart.v|
+Z66 !s90 -reportprogress|300|-vlog01compat|-work|Qsys_system|+incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules|E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_jtag_uart.v|
+R8
+R13
+Z67 n@qsys_system_jtag_uart
+!i10b 1
+Z68 !s100 V=H?KU48TDU4jlOei^G4e1
+!s85 0
+!s101 -O0
+vQsys_system_jtag_uart_scfifo_r
+Z69 Ink[GCliKEdD9nnS^332D:3
+Z70 Vb?:L5_LO7805l87YNP0Ph0
+R3
+R60
+R61
+R62
+Z71 L0 240
+R7
+r1
+31
+R64
+R65
+R66
+R8
+R13
+Z72 n@qsys_system_jtag_uart_scfifo_r
+!i10b 1
+Z73 !s100 NckL][a0EQBBKeN=NTYi[0
+!s85 0
+!s101 -O0
+vQsys_system_jtag_uart_scfifo_w
+Z74 IogC7SC6Z4znEdL2;NDM>i3
+Z75 V?UfL;@hM[G?i_Za6ZcM^R0
+R3
+R60
+R61
+R62
+L0 77
+R7
+r1
+31
+R64
+R65
+R66
+R8
+R13
+Z76 n@qsys_system_jtag_uart_scfifo_w
+!i10b 1
+Z77 !s100 ?V7TjfQKGm3]D@fMYoYRW2
+!s85 0
+!s101 -O0
+vQsys_system_jtag_uart_sim_scfifo_r
+Z78 ISFS]>A66i`PYTkOG_HzS`3
+Z79 VIzLS6>DFzM`6[nN2nQcSe1
+R3
+R60
+R61
+R62
+Z80 L0 162
+R7
+r1
+31
+R64
+R65
+R66
+R8
+R13
+Z81 n@qsys_system_jtag_uart_sim_scfifo_r
+!i10b 1
+Z82 !s100 ;nSe`YB=6INUO8@MTcLD:3
+!s85 0
+!s101 -O0
+vQsys_system_jtag_uart_sim_scfifo_w
+Z83 IX4c>^b5R`WiDL97o9BmM=0
+Z84 VY_6AX3mhh?LbhiM13hUiE1
+R3
+R60
+R61
+R62
+L0 21
+R7
+r1
+31
+R64
+R65
+R66
+R8
+R13
+Z85 n@qsys_system_jtag_uart_sim_scfifo_w
+!i10b 1
+Z86 !s100 QI0L0miXSlc]2zh1kCl0m3
+!s85 0
+!s101 -O0
+vQsys_system_Led
+Z87 IkQG>HU2`o?Dh[A`NcAQ200
+Z88 VMWIhL6RWclRc7cH4X_Ue:1
+R3
+Z89 w1509886821
+Z90 8E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_Led.v
+Z91 FE:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_Led.v
+L0 21
+R7
+r1
+31
+R8
+R13
+Z92 n@qsys_system_@led
+Z93 !s100 W0VleUaBESEY5Q9J4^LD31
+Z94 !s108 1510990178.253000
+Z95 !s107 E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_Led.v|
+Z96 !s90 -reportprogress|300|-vlog01compat|-work|Qsys_system|+incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules|E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_Led.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vQsys_system_mm_interconnect_0
+Z97 Ig`XYDVHMIjM?fLdA5VRSO1
+Z98 VQ?R]9Z:FL1PR]043?2F842
+R3
+R4
+Z99 8E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_mm_interconnect_0.v
+Z100 FE:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_mm_interconnect_0.v
+L0 9
+R7
+r1
+31
+R8
+R13
+Z101 n@qsys_system_mm_interconnect_0
+Z102 !s100 9CMgP>Kc2nKU8;7i6TAQ21
+Z103 !s108 1510990176.547000
+Z104 !s107 E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_mm_interconnect_0.v|
+Z105 !s90 -reportprogress|300|-vlog01compat|-work|Qsys_system|+incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules|E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_mm_interconnect_0.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vQsys_system_onchip_ram
+!i10b 1
+!s100 L]@hJ4`=AE`?^dB3:k:VV2
+ISB7X:aVMDzKNe0nzS3ID;0
+VzfY3CQhYH7NLkRK<gdbTO1
+R3
+w1509886819
+8E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_onchip_ram.v
+FE:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_onchip_ram.v
+L0 21
+R7
+r1
+!s85 0
+31
+!s108 1510990180.055000
+!s107 E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_onchip_ram.v|
+!s90 -reportprogress|300|-vlog01compat|-work|Qsys_system|+incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules|E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_onchip_ram.v|
+!s101 -O0
+R8
+R13
+n@qsys_system_onchip_ram
+vQsys_system_sysid_qsys
+Z106 I49okZ2UabhQY;=@DU^b7A1
+Z107 VEf2@;ElBA]UNO1da@1lXl2
+R3
+R60
+Z108 8E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_sysid_qsys.v
+Z109 FE:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_sysid_qsys.v
+L0 21
+R7
+r1
+31
+R8
+R13
+Z110 n@qsys_system_sysid_qsys
+Z111 !s100 T1eogVek5ER^GhZ4NFC5=1
+Z112 !s108 1510990178.766000
+Z113 !s107 E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_sysid_qsys.v|
+Z114 !s90 -reportprogress|300|-vlog01compat|-work|Qsys_system|+incdir+E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules|E:/Pov_Led_FPGA/Qsys_system/synthesis/submodules/Qsys_system_sysid_qsys.v|
+!i10b 1
+!s85 0
+!s101 -O0

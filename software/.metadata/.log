@@ -1,0 +1,691 @@
+!SESSION 2017-10-30 18:14:22.219 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-30 18:25:26.355
+!MESSAGE Indexed 'Pov_Led_FPGA_bsp' (82 sources, 61 headers) in 1.68 sec: 1,142 declarations; 3,041 references; 117 unresolved inclusions; 5 syntax errors; 210 unresolved names (4.78%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-30 18:25:39.539
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 13 headers) in 0.03 sec: 1 declarations; 1 references; 14 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-30 18:40:50.830
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 62 headers) in 1.38 sec: 2,386 declarations; 2,224 references; 0 unresolved inclusions; 2 syntax errors; 6 unresolved names (0.13%)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-10-30 19:01:14.253
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-10-30 19:01:14.257
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-30 19:07:29.828
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 72 headers) in 0.73 sec: 2,458 declarations; 2,423 references; 0 unresolved inclusions; 2 syntax errors; 6 unresolved names (0.12%)
+!SESSION 2017-11-05 20:17:20.943 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-11-05 20:21:56.168
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-11-05 20:21:56.246
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:555)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-11-05 20:29:31.112
+!MESSAGE Executing: [D:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1820 --id=0x0 --timestamp=1509346508]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-11-05 20:29:39.828
+!MESSAGE Executing: [D:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1820 --id=0x0 --timestamp=1509346508 /cygdrive/e/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-11-05 20:31:48.844
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-11-05 20:31:51.056
+!MESSAGE Executing: [D:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1820 --id=0x0 --timestamp=1509346508]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-11-05 20:31:58.530
+!MESSAGE Executing: [D:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1820 --id=0x0 --timestamp=1509346508 /cygdrive/e/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-11-05 20:36:42.301
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-11-05 20:36:44.485
+!MESSAGE Executing: [D:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1820 --id=0x0 --timestamp=1509346508]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-11-05 20:36:51.972
+!MESSAGE Executing: [D:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1820 --id=0x0 --timestamp=1509346508 /cygdrive/e/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-05 21:05:02.004
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 72 headers) in 1.80 sec: 2,458 declarations; 2,424 references; 0 unresolved inclusions; 2 syntax errors; 6 unresolved names (0.12%)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-11-05 21:07:44.128
+!MESSAGE Executing: [D:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1820 --id=0x0 --timestamp=1509346508]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-11-05 21:07:52.157
+!MESSAGE Executing: [D:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1820 --id=0x0 --timestamp=1509346508 /cygdrive/e/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+!SESSION 2017-12-12 21:56:09.964 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.epp.usagedata.recording 1 0 2017-12-12 21:56:34.855
+!MESSAGE Usage data upload to http://udc.eclipse.org/upload.php failed with error code 302.
+!SESSION 2017-12-14 18:35:30.062 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 18:43:00.433
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1513247785]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 18:43:02.582
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1513247785 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 18:43:53.733
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 18:43:54.329
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1513247785]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 18:43:56.497
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1513247785 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 18:47:52.556
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 18:47:53.155
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1513247785]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 18:47:55.329
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1513247785 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:32:37.808
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:32:38.394
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1513247785]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:32:40.567
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1513247785 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:34:57.605
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:34:58.242
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1513247785]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:35:00.418
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1513247785 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:37:30.486
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:37:31.115
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1513247785]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:37:33.313
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1513247785 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:39:54.888
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:39:55.512
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1513247785]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:39:57.681
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1513247785 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:43:19.136
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:43:19.731
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1513247785]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:43:21.915
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1513247785 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:44:25.023
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:44:25.616
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1513247785]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:44:27.771
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1513247785 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:46:15.957
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:46:16.528
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1513247785]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 19:46:18.694
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1513247785 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+!SESSION 2017-12-14 20:33:14.746 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-14 20:37:17.865
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: System timestamp mismatch - connected: "1513247785", expected: "1513254495".
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:631)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-14 20:37:17.870
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: System timestamp mismatch - connected: "1513247785", expected: "1513254495".
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:631)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 20:37:37.001
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1513254495]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 20:37:39.165
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1513254495 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 20:38:25.686
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 20:38:26.297
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1513254495]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 20:38:28.461
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1513254495 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 20:39:27.303
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 20:39:27.911
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1513254495]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 20:39:30.090
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1513254495 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 20:49:16.008
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 20:49:16.608
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1513254495]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 20:49:18.766
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1513254495 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+!SESSION 2017-12-14 20:57:36.967 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 20:58:00.463
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1513254495]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 20:58:02.650
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1513254495 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+!SESSION 2017-12-14 21:10:56.466 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 21:11:30.060
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1513256931]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 21:11:32.218
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1513256931 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 21:20:02.234
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-14 21:20:08.643
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2017-12-14 21:20:08.644
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-12-14 21:24:08.014 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 21:24:35.310
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1513256931]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 21:24:37.470
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1513256931 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 21:31:47.924
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 21:31:48.561
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1513256931]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 21:31:50.747
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1513256931 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 21:34:26.929
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 21:34:27.587
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1513256931]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 21:34:29.760
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1513256931 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 21:37:39.035
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 21:37:39.691
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1513256931]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-14 21:37:41.864
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1513256931 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+!SESSION 2017-12-26 23:29:44.454 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-12-26 23:31:35.325
+!MESSAGE Indexed 'Pov_Led_FPGA' (1 sources, 78 headers) in 0.81 sec: 2,814 declarations; 2,657 references; 0 unresolved inclusions; 2 syntax errors; 6 unresolved names (0.11%)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-26 23:35:40.372
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1828 --id=0x0 --timestamp=1514302157]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-26 23:35:42.759
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1828 --id=0x0 --timestamp=1514302157 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+!SESSION 2017-12-26 23:52:22.356 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-26 23:54:40.008
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514303469]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-26 23:54:42.256
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514303469 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-26 23:56:45.619
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-26 23:56:46.294
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514303469]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-26 23:56:48.580
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514303469 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:07:37.395
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:07:38.185
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514303469]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:07:40.465
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514303469 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:09:12.794
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:09:13.523
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514303469]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:09:16.025
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514303469 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY org.eclipse.osgi 4 0 2017-12-27 00:11:47.217
+!MESSAGE Unexpected exception occurred loading manifest for bundle at the location: reference:file:plugins/org.eclipse.cdt.dsf.ui_2.2.1.201202111925.jar.
+!STACK 0
+org.osgi.framework.BundleException: An error occurred while reading the manifest file.
+	at org.eclipse.osgi.framework.util.Headers.parseManifest(Headers.java:259)
+	at org.eclipse.osgi.internal.baseadaptor.AdaptorUtil.loadManifestFrom(AdaptorUtil.java:191)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseStorageHook.getGeneratedManifest0(EclipseStorageHook.java:410)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseStorageHook.getGeneratedManifest(EclipseStorageHook.java:397)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseStorageHook.createCachedManifest(EclipseStorageHook.java:392)
+	at org.eclipse.core.runtime.internal.adaptor.CachedManifest.getManifest(CachedManifest.java:42)
+	at org.eclipse.core.runtime.internal.adaptor.CachedManifest.get(CachedManifest.java:142)
+	at org.eclipse.core.runtime.internal.adaptor.CachedManifest.get(CachedManifest.java:1)
+	at org.eclipse.osgi.framework.internal.core.ManifestLocalization.lookupResourceBundle(ManifestLocalization.java:104)
+	at org.eclipse.osgi.framework.internal.core.ManifestLocalization.getResourceBundle(ManifestLocalization.java:91)
+	at org.eclipse.osgi.framework.internal.core.ManifestLocalization.getHeaders(ManifestLocalization.java:52)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.getHeaders(AbstractBundle.java:964)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.getHeaders(AbstractBundle.java:911)
+	at org.eclipse.epp.usagedata.internal.gathering.monitors.BundleUsageMonitor.getBundleVersion(BundleUsageMonitor.java:96)
+	at org.eclipse.epp.usagedata.internal.gathering.monitors.BundleUsageMonitor.getBundleVersion(BundleUsageMonitor.java:92)
+	at org.eclipse.epp.usagedata.internal.gathering.monitors.BundleUsageMonitor$1.bundleChanged(BundleUsageMonitor.java:52)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.dispatchEvent(BundleContextImpl.java:847)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+Caused by: java.util.zip.ZipException: ZipFile closed
+	at java.util.zip.ZipFile.ensureOpenOrZipException(Unknown Source)
+	at java.util.zip.ZipFile.access$1100(Unknown Source)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(Unknown Source)
+	at java.util.zip.ZipFile$1.fill(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at org.eclipse.osgi.baseadaptor.bundlefile.ZipBundleEntry$ZipBundleEntryInputStream.read(ZipBundleEntry.java:157)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at org.eclipse.osgi.util.ManifestElement.parseBundleManifest(ManifestElement.java:516)
+	at org.eclipse.osgi.framework.util.Headers.parseManifest(Headers.java:257)
+	... 18 more
+Root exception:
+java.util.zip.ZipException: ZipFile closed
+	at java.util.zip.ZipFile.ensureOpenOrZipException(Unknown Source)
+	at java.util.zip.ZipFile.access$1100(Unknown Source)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(Unknown Source)
+	at java.util.zip.ZipFile$1.fill(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at org.eclipse.osgi.baseadaptor.bundlefile.ZipBundleEntry$ZipBundleEntryInputStream.read(ZipBundleEntry.java:157)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at org.eclipse.osgi.util.ManifestElement.parseBundleManifest(ManifestElement.java:516)
+	at org.eclipse.osgi.framework.util.Headers.parseManifest(Headers.java:257)
+	at org.eclipse.osgi.internal.baseadaptor.AdaptorUtil.loadManifestFrom(AdaptorUtil.java:191)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseStorageHook.getGeneratedManifest0(EclipseStorageHook.java:410)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseStorageHook.getGeneratedManifest(EclipseStorageHook.java:397)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseStorageHook.createCachedManifest(EclipseStorageHook.java:392)
+	at org.eclipse.core.runtime.internal.adaptor.CachedManifest.getManifest(CachedManifest.java:42)
+	at org.eclipse.core.runtime.internal.adaptor.CachedManifest.get(CachedManifest.java:142)
+	at org.eclipse.core.runtime.internal.adaptor.CachedManifest.get(CachedManifest.java:1)
+	at org.eclipse.osgi.framework.internal.core.ManifestLocalization.lookupResourceBundle(ManifestLocalization.java:104)
+	at org.eclipse.osgi.framework.internal.core.ManifestLocalization.getResourceBundle(ManifestLocalization.java:91)
+	at org.eclipse.osgi.framework.internal.core.ManifestLocalization.getHeaders(ManifestLocalization.java:52)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.getHeaders(AbstractBundle.java:964)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.getHeaders(AbstractBundle.java:911)
+	at org.eclipse.epp.usagedata.internal.gathering.monitors.BundleUsageMonitor.getBundleVersion(BundleUsageMonitor.java:96)
+	at org.eclipse.epp.usagedata.internal.gathering.monitors.BundleUsageMonitor.getBundleVersion(BundleUsageMonitor.java:92)
+	at org.eclipse.epp.usagedata.internal.gathering.monitors.BundleUsageMonitor$1.bundleChanged(BundleUsageMonitor.java:52)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.dispatchEvent(BundleContextImpl.java:847)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+!SESSION 2017-12-27 00:15:07.634 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:16:03.465
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:16:05.714
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:18:07.159
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:18:07.866
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:18:10.065
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:22:55.936
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:22:56.632
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:22:58.868
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:25:10.753
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:25:11.466
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:25:13.735
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:29:05.403
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:29:06.098
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:29:08.483
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:39:29.516
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:39:30.216
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:39:32.459
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:40:15.401
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:40:16.073
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:40:18.284
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:44:08.964
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:44:09.664
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:44:11.930
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:44:38.501
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:44:39.144
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:44:41.354
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:45:04.460
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:45:05.118
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:45:07.375
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:45:33.836
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:45:34.554
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:45:36.956
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:46:04.500
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:46:05.157
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:46:07.392
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:46:28.442
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:46:29.084
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:46:31.320
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:46:52.219
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:46:52.861
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:46:55.103
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:47:36.361
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:47:37.025
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:47:39.261
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:49:10.283
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:49:10.932
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:49:13.202
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:49:49.946
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:49:50.602
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:49:52.819
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:50:10.587
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:50:11.238
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:50:13.541
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:53:12.387
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:53:13.110
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x1830 --id=0x0 --timestamp=1514304766]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2017-12-27 00:53:15.350
+!MESSAGE Executing: [C:/altera/13.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x1830 --id=0x0 --timestamp=1514304766 /cygdrive/f/Pov_Led_FPGA/software/Pov_Led_FPGA/Pov_Led_FPGA.elf]

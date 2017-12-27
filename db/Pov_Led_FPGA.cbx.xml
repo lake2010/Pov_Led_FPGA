@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Pov_Led_FPGA">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_nios2_qsys:nios2_qsys|Qsys_system_nios2_qsys_mult_cell:the_Qsys_system_nios2_qsys_mult_cell|altera_mult_add:the_altmult_add_part_1|altera_mult_add_q1u2:auto_generated|altera_mult_add_rtl:altera_mult_add_rtl1|ama_multiplier_function:multiplier_block|lpm_mult:Mult0" CBX_FILE_NAME="mult_jp01.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|PLL:PLL_Init|altpll:altpll_component" CBX_FILE_NAME="PLL_altpll.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_jtag_uart:jtag_uart|Qsys_system_jtag_uart_scfifo_w:the_Qsys_system_jtag_uart_scfifo_w|scfifo:wfifo" CBX_FILE_NAME="scfifo_jr21.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_nios2_qsys:nios2_qsys|Qsys_system_nios2_qsys_bht_module:Qsys_system_nios2_qsys_bht|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_gph1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_nios2_qsys:nios2_qsys|Qsys_system_nios2_qsys_dc_data_module:Qsys_system_nios2_qsys_dc_data|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_kpc1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_nios2_qsys:nios2_qsys|Qsys_system_nios2_qsys_dc_tag_module:Qsys_system_nios2_qsys_dc_tag|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_abh1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_nios2_qsys:nios2_qsys|Qsys_system_nios2_qsys_dc_victim_module:Qsys_system_nios2_qsys_dc_victim|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_r3d1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_nios2_qsys:nios2_qsys|Qsys_system_nios2_qsys_mult_cell:the_Qsys_system_nios2_qsys_mult_cell|altera_mult_add:the_altmult_add_part_1" CBX_FILE_NAME="altera_mult_add_q1u2.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_nios2_qsys:nios2_qsys|Qsys_system_nios2_qsys_register_bank_a_module:Qsys_system_nios2_qsys_register_bank_a|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_g7h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_nios2_qsys:nios2_qsys|lpm_add_sub:Add17" CBX_FILE_NAME="add_sub_qvi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_epcs_flash:epcs_flash|altsyncram:the_boot_copier_rom" CBX_FILE_NAME="altsyncram_me51.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_jtag_uart:jtag_uart|Qsys_system_jtag_uart_scfifo_r:the_Qsys_system_jtag_uart_scfifo_r|scfifo:rfifo" CBX_FILE_NAME="scfifo_jr21.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_nios2_qsys:nios2_qsys|Qsys_system_nios2_qsys_mult_cell:the_Qsys_system_nios2_qsys_mult_cell|altera_mult_add:the_altmult_add_part_2" CBX_FILE_NAME="altera_mult_add_s1u2.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_onchip_ram:onchip_ram|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_81d1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_onchip_ram:onchip_ram|altsyncram:the_altsyncram|altsyncram_81d1:auto_generated|altsyncram:ram_block1a0" CBX_FILE_NAME="altsyncram_43d3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_nios2_qsys:nios2_qsys|Qsys_system_nios2_qsys_ic_data_module:Qsys_system_nios2_qsys_ic_data|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_cjd1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_nios2_qsys:nios2_qsys|Qsys_system_nios2_qsys_ic_tag_module:Qsys_system_nios2_qsys_ic_tag|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_l5i1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_nios2_qsys:nios2_qsys|Qsys_system_nios2_qsys_mult_cell:the_Qsys_system_nios2_qsys_mult_cell|altera_mult_add:the_altmult_add_part_2|altera_mult_add_s1u2:auto_generated|altera_mult_add_rtl:altera_mult_add_rtl1|ama_multiplier_function:multiplier_block|lpm_mult:Mult0" CBX_FILE_NAME="mult_j011.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_nios2_qsys:nios2_qsys|Qsys_system_nios2_qsys_nios2_oci:the_Qsys_system_nios2_qsys_nios2_oci|Qsys_system_nios2_qsys_nios2_ocimem:the_Qsys_system_nios2_qsys_nios2_ocimem|Qsys_system_nios2_qsys_ociram_sp_ram_module:Qsys_system_nios2_qsys_ociram_sp_ram|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_qh91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Pov_Led_FPGA|Qsys_system:Qsys_system_Init|Qsys_system_nios2_qsys:nios2_qsys|Qsys_system_nios2_qsys_register_bank_b_module:Qsys_system_nios2_qsys_register_bank_b|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_h7h1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

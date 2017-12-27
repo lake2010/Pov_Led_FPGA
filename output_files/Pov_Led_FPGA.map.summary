@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Dec 27 00:43:12 2017
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : Pov_Led_FPGA
+Top-level Entity Name : Pov_Led_FPGA
+Family : Cyclone IV E
+Total logic elements : 3,903
+    Total combinational functions : 3,252
+    Dedicated logic registers : 2,220
+Total registers : 2220
+Total pins : 12
+Total virtual pins : 0
+Total memory bits : 153,280
+Embedded Multiplier 9-bit elements : 4
+Total PLLs : 1

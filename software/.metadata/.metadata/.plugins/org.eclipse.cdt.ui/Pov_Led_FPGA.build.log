@@ -1,0 +1,26 @@
+
+**** Build of configuration Nios II for project Pov_Led_FPGA ****
+
+make all 
+      0 [main] sh 12972 find_fast_cwd: WARNING: Couldn't compute FAST_CWD pointer.  Please report this problem to
+the public mailing list cygwin@cygwin.com
+      1 [main] sh 824 find_fast_cwd: WARNING: Couldn't compute FAST_CWD pointer.  Please report this problem to
+the public mailing list cygwin@cygwin.com
+      0 [main] echo 7424 find_fast_cwd: WARNING: Couldn't compute FAST_CWD pointer.  Please report this problem to
+Info: Building ../Pov_Led_FPGA_bsp/
+the public mailing list cygwin@cygwin.com
+make --no-print-directory -C ../Pov_Led_FPGA_bsp/
+      0 [main] pwd 11764 find_fast_cwd: WARNING: Couldn't compute FAST_CWD pointer.  Please report this problem to
+the public mailing list cygwin@cygwin.com
+      0 [main] sh 6692 find_fast_cwd: WARNING: Couldn't compute FAST_CWD pointer.  Please report this problem to
+the public mailing list cygwin@cygwin.com
+      0 [main] sh 10544 find_fast_cwd: WARNING: Couldn't compute FAST_CWD pointer.  Please report this problem to
+the public mailing list cygwin@cygwin.com
+[BSP build complete]
+      0 [main] true 10420 find_fast_cwd: WARNING: Couldn't compute FAST_CWD pointer.  Please report this problem to
+the public mailing list cygwin@cygwin.com
+      0 [main] sh 4776 find_fast_cwd: WARNING: Couldn't compute FAST_CWD pointer.  Please report this problem to
+the public mailing list cygwin@cygwin.com
+[Pov_Led_FPGA build complete]
+
+**** Build Finished ****

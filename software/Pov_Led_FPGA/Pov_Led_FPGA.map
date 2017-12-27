@@ -1,0 +1,882 @@
+Archive member included because of file (symbol)
+
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-printf.o)
+                              obj/default/main.o (printf)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-vfprintf.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-printf.o) (___vfprintf_internal_r)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-printf.o) (__sfvwrite_small_dev)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-printf.o) (_impure_ptr)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-vfprintf.o) (strlen)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o) (_write_r)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o) (errno)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3\libgcc.a(lib2-divmod.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-vfprintf.o) (__udivsi3)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o)
+                              ../Pov_Led_FPGA_bsp//obj/HAL/src/crt0.o (alt_main)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_write.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o) (write)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o) (alt_irq_init)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_read_fd)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_read)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_write)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(my9262.o)
+                              obj/default/main.o (my9262WriteGrayscale)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_close.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o) (close)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_list)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_llist_insert)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o) (_do_ctors)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o) (_do_dtors)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_errno.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_write.o) (alt_errno)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o) (alt_io_redirect)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_open.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_io_redirect.o) (open)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_release_fd.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_close.o) (alt_release_fd)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_nios2_qsys_irq_init)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_dev.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_open.o) (alt_find_dev)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_file.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_open.o) (alt_find_file)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_get_fd.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_open.o) (alt_get_fd)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-atexit.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o) (atexit)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o) (exit)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+                              ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_dev.o) (memcmp)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__atexit.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-atexit.o) (__register_exitproc)
+c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o) (__call_exitprocs)
+../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_exit.o)
+                              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+_atexit0            0x8c              c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-atexit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x00000000         0x00000020
+epcs_flash       0x00000020         0x000007e0
+onchip_ram_BEFORE_EXCEPTION 0x00008000         0x00000020
+onchip_ram       0x00008020         0x000027e0
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ../Pov_Led_FPGA_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/main.o
+LOAD c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libstdc++.a
+LOAD c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libm.a
+LOAD c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3\libgcc.a
+START GROUP
+LOAD c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a
+LOAD c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3\libgcc.a
+LOAD ../Pov_Led_FPGA_bsp/\libhal_bsp.a
+END GROUP
+LOAD c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3\libgcc.a
+                0x00000000                __alt_mem_epcs_flash = 0x0
+                0x00008000                __alt_mem_onchip_ram = 0x8000
+
+.entry          0x00000000        0x0
+ *(.entry)
+ .entry         0x00000000        0x0 ../Pov_Led_FPGA_bsp//obj/HAL/src/crt0.o
+                0x00000000                __reset
+
+.exceptions     0x00008020        0x0
+                0x00008020                PROVIDE (__ram_exceptions_start, ABSOLUTE (.))
+                0x00008020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ *(.exceptions.entry.user)
+ *(.exceptions.entry.ecc_fatal)
+ *(.exceptions.entry)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ *(.exceptions.notirq.label)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ *(.exceptions.exit.label)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ *(.exceptions)
+                0x00008020                PROVIDE (__ram_exceptions_end, ABSOLUTE (.))
+                0x00008020                PROVIDE (__flash_exceptions_start, LOADADDR (.exceptions))
+
+.text           0x00008020     0x1d2c
+                0x00008020                PROVIDE (stext, ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00008020       0x48 ../Pov_Led_FPGA_bsp//obj/HAL/src/crt0.o
+                0x00008020                _start
+ .text          0x00008068       0x50 obj/default/main.o
+                0x00008068                main
+ .text          0x000080b8       0x88 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-printf.o)
+                0x000080b8                _printf_r
+                0x000080f4                printf
+ .text          0x00008140      0x6e8 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-vfprintf.o)
+                0x00008140                ___vfprintf_internal_r
+                0x00008804                __vfprintf_internal
+ .text          0x00008828       0xe0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                0x00008828                __sfvwrite_small_dev
+ .text          0x00008908        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .text          0x00008908       0x28 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+                0x00008908                strlen
+ .text          0x00008930       0x6c c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+                0x00008930                _write_r
+ .text          0x0000899c        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .text          0x0000899c      0x130 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3\libgcc.a(lib2-divmod.o)
+                0x00008a10                __divsi3
+                0x00008a60                __modsi3
+                0x00008abc                __udivsi3
+                0x00008ac4                __umodsi3
+ .text          0x00008acc       0x78 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o)
+                0x00008acc                alt_main
+ .text          0x00008b44      0x13c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_write.o)
+                0x00008b94                write
+ .text          0x00008c80       0xac ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x00008cb8                alt_irq_init
+                0x00008cec                alt_sys_init
+ .text          0x00008d2c       0xc0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                0x00008d2c                altera_avalon_jtag_uart_read_fd
+                0x00008d8c                altera_avalon_jtag_uart_write_fd
+ .text          0x00008dec       0xf4 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                0x00008dec                altera_avalon_jtag_uart_read
+ .text          0x00008ee0       0x98 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x00008ee0                altera_avalon_jtag_uart_write
+ .text          0x00008f78       0x50 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(my9262.o)
+                0x00008f78                my9262WriteGrayscale
+ .text          0x00008fc8      0x118 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_close.o)
+                0x00009018                close
+ .text          0x000090e0       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev.o)
+ .text          0x0000910c       0xf0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                0x0000915c                alt_dev_llist_insert
+ .text          0x000091fc       0x5c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                0x000091fc                _do_ctors
+ .text          0x00009258       0x5c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                0x00009258                _do_dtors
+ .text          0x000092b4        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_errno.o)
+ .text          0x000092b4      0x138 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                0x00009374                alt_io_redirect
+ .text          0x000093ec      0x270 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_open.o)
+                0x00009508                open
+ .text          0x0000965c       0x60 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_release_fd.o)
+                0x0000965c                alt_release_fd
+ .text          0x000096bc       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                0x000096bc                altera_nios2_qsys_irq_init
+ .text          0x000096dc       0x90 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_dev.o)
+                0x000096dc                alt_find_dev
+ .text          0x0000976c      0x114 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_file.o)
+                0x0000976c                alt_find_file
+ .text          0x00009880       0xb4 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_get_fd.o)
+                0x00009880                alt_get_fd
+ .text          0x00009934       0x14 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-atexit.o)
+                0x00009934                atexit
+ .text          0x00009948       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+                0x00009948                exit
+ .text          0x00009968       0x48 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+                0x00009968                memcmp
+ .text          0x000099b0      0x188 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__atexit.o)
+                0x000099b0                __register_exitproc
+ .text          0x00009b38      0x1d8 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+                0x00009b38                __call_exitprocs
+ .text          0x00009d10       0x3c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_exit.o)
+                0x00009d10                _exit
+ *(.gnu.warning.*)
+ *(.fini)
+                0x00009d4c                PROVIDE (__etext, ABSOLUTE (.))
+                0x00009d4c                PROVIDE (_etext, ABSOLUTE (.))
+                0x00009d4c                PROVIDE (etext, ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x00009d4c                . = ALIGN (0x4)
+                0x00009d4c                PROVIDE (__preinit_array_start, ABSOLUTE (.))
+ *(.preinit_array)
+                0x00009d4c                PROVIDE (__preinit_array_end, ABSOLUTE (.))
+                0x00009d4c                PROVIDE (__init_array_start, ABSOLUTE (.))
+ *(.init_array)
+                0x00009d4c                PROVIDE (__init_array_end, ABSOLUTE (.))
+                0x00009d4c                PROVIDE (__fini_array_start, ABSOLUTE (.))
+ *(.fini_array)
+                0x00009d4c                PROVIDE (__fini_array_end, ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table .gcc_except_table.*)
+ *(.dynamic)
+                0x00009d4c                PROVIDE (__CTOR_LIST__, ABSOLUTE (.))
+ *(.ctors)
+ *(SORT(.ctors.*))
+                0x00009d4c                PROVIDE (__CTOR_END__, ABSOLUTE (.))
+                0x00009d4c                PROVIDE (__DTOR_LIST__, ABSOLUTE (.))
+ *(.dtors)
+ *(SORT(.dtors.*))
+                0x00009d4c                PROVIDE (__DTOR_END__, ABSOLUTE (.))
+ *(.jcr)
+                0x00009d4c                . = ALIGN (0x4)
+
+.rodata         0x00009d4c       0x3c
+                0x00009d4c                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
+                0x00009d4c                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x00009d4c       0x10 obj/default/main.o
+ .rodata        0x00009d5c       0x10 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o)
+ .rodata        0x00009d6c       0x10 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .rodata        0x00009d7c        0xc ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev.o)
+ *(.rodata1)
+                0x00009d88                . = ALIGN (0x4)
+                0x00009d88                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
+                0x00009d4c                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
+
+.rwdata         0x00009d88      0x2dc
+                0x00009d88                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
+                0x00009d88                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00009d88        0x0 ../Pov_Led_FPGA_bsp//obj/HAL/src/crt0.o
+ .data          0x00009d88        0x0 obj/default/main.o
+ .data          0x00009d88        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-printf.o)
+ .data          0x00009d88        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-vfprintf.o)
+ .data          0x00009d88        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .data          0x00009d88       0xe0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .data          0x00009e68        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .data          0x00009e68        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .data          0x00009e68        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .data          0x00009e68        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3\libgcc.a(lib2-divmod.o)
+ .data          0x00009e68        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o)
+ .data          0x00009e68        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_write.o)
+ .data          0x00009e68       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .data          0x00009e94        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .data          0x00009e94        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .data          0x00009e94        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x00009e94        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(my9262.o)
+ .data          0x00009e94        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_close.o)
+ .data          0x00009e94      0x1a8 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev.o)
+                0x00009e94                alt_dev_null
+                0x00009ebc                alt_fd_list
+ .data          0x0000a03c        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x0000a03c        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .data          0x0000a03c        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .data          0x0000a03c        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_errno.o)
+ .data          0x0000a03c        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .data          0x0000a03c        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_open.o)
+ .data          0x0000a03c        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .data          0x0000a03c        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .data          0x0000a03c        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .data          0x0000a03c        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_file.o)
+ .data          0x0000a03c        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .data          0x0000a03c        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-atexit.o)
+ .data          0x0000a03c        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .data          0x0000a03c        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .data          0x0000a03c        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__atexit.o)
+ .data          0x0000a03c        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .data          0x0000a03c        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_exit.o)
+                0x0001203c                _gp = ABSOLUTE ((. + 0x8000))
+                0x0001203c                PROVIDE (gp, _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x0000a03c        0x8 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+                0x0000a03c                _global_impure_ptr
+                0x0000a040                _impure_ptr
+ .sdata         0x0000a044        0x8 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x0000a044                led_controller_addr
+                0x0000a048                my9262_addr
+ .sdata         0x0000a04c       0x14 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev.o)
+                0x0000a04c                alt_fs_list
+                0x0000a054                alt_dev_list
+                0x0000a05c                alt_max_fd
+ .sdata         0x0000a060        0x4 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_errno.o)
+                0x0000a060                alt_errno
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x0000a064                . = ALIGN (0x4)
+                0x0000a064                _edata = ABSOLUTE (.)
+                0x0000a064                PROVIDE (edata, ABSOLUTE (.))
+                0x0000a064                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
+                0x00009d88                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
+
+.bss            0x0000a064       0x9c
+                0x0000a064                __bss_start = ABSOLUTE (.)
+                0x0000a064                PROVIDE (__sbss_start, ABSOLUTE (.))
+                0x0000a064                PROVIDE (___sbss_start, ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x0000a064        0x4 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+                0x0000a064                errno
+ .sbss          0x0000a068        0xc ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o)
+                0x0000a068                alt_argc
+                0x0000a06c                alt_argv
+                0x0000a070                alt_envp
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                0x0000a074                PROVIDE (__sbss_end, ABSOLUTE (.))
+                0x0000a074                PROVIDE (___sbss_end, ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp//obj/HAL/src/crt0.o
+ .bss           0x0000a074        0x0 obj/default/main.o
+ .bss           0x0000a074        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-printf.o)
+ .bss           0x0000a074        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-vfprintf.o)
+ .bss           0x0000a074        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .bss           0x0000a074        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .bss           0x0000a074        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .bss           0x0000a074        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .bss           0x0000a074        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .bss           0x0000a074        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3\libgcc.a(lib2-divmod.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_write.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(my9262.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_close.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_errno.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_open.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_file.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .bss           0x0000a074        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-atexit.o)
+ .bss           0x0000a074        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .bss           0x0000a074        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .bss           0x0000a074        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__atexit.o)
+ .bss           0x0000a074        0x0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .bss           0x0000a074        0x0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_exit.o)
+ *(COMMON)
+ COMMON         0x0000a074       0x8c c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-atexit.o)
+                0x0000a074                _atexit0
+                0x0000a100                . = ALIGN (0x4)
+                0x0000a100                __bss_end = ABSOLUTE (.)
+
+.epcs_flash     0x00000020        0x0
+                0x00000020                PROVIDE (_alt_partition_epcs_flash_start, ABSOLUTE (.))
+ *(.epcs_flash .epcs_flash. epcs_flash.*)
+                0x00000020                . = ALIGN (0x4)
+                0x00000020                PROVIDE (_alt_partition_epcs_flash_end, ABSOLUTE (.))
+                0x00000020                PROVIDE (_alt_partition_epcs_flash_load_addr, LOADADDR (.epcs_flash))
+
+.onchip_ram     0x0000a100        0x0
+                0x0000a100                PROVIDE (_alt_partition_onchip_ram_start, ABSOLUTE (.))
+ *(.onchip_ram .onchip_ram. onchip_ram.*)
+                0x0000a100                . = ALIGN (0x4)
+                0x0000a100                PROVIDE (_alt_partition_onchip_ram_end, ABSOLUTE (.))
+                0x0000a100                _end = ABSOLUTE (.)
+                0x0000a100                end = ABSOLUTE (.)
+                0x0000a100                __alt_stack_base = ABSOLUTE (.)
+                0x0000a100                PROVIDE (_alt_partition_onchip_ram_load_addr, LOADADDR (.onchip_ram))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x23
+ *(.comment)
+ .comment       0x00000000       0x23 obj/default/main.o
+                                 0x24 (size before relaxing)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-printf.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-vfprintf.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3\libgcc.a(lib2-divmod.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_write.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(my9262.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_close.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_errno.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_open.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_file.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-atexit.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__atexit.o)
+ .comment       0x00000000       0x24 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .comment       0x00000000       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x468
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 ../Pov_Led_FPGA_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x00000020       0x20 obj/default/main.o
+ .debug_aranges
+                0x00000040       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-printf.o)
+ .debug_aranges
+                0x00000060       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-vfprintf.o)
+ .debug_aranges
+                0x00000080       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_aranges
+                0x000000a0       0x18 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .debug_aranges
+                0x000000b8       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x000000d8       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .debug_aranges
+                0x000000f8       0x18 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .debug_aranges
+                0x00000110       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3\libgcc.a(lib2-divmod.o)
+ .debug_aranges
+                0x00000130       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x00000150       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_aranges
+                0x00000170       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x00000190       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_aranges
+                0x000001b0       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_aranges
+                0x000001d0       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x000001f0       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(my9262.o)
+ .debug_aranges
+                0x00000210       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_aranges
+                0x00000230       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_aranges
+                0x00000250       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x00000270       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_aranges
+                0x00000290       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_aranges
+                0x000002b0       0x18 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_aranges
+                0x000002c8       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_aranges
+                0x000002e8       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_aranges
+                0x00000308       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_aranges
+                0x00000328       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_aranges
+                0x00000348       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x00000368       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_aranges
+                0x00000388       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_aranges
+                0x000003a8       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x000003c8       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .debug_aranges
+                0x000003e8       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x00000408       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x00000428       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x00000448       0x20 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x7329
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0x62 ../Pov_Led_FPGA_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x00000062       0xce obj/default/main.o
+ .debug_info    0x00000130      0x765 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-printf.o)
+ .debug_info    0x00000895      0xc5d c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-vfprintf.o)
+ .debug_info    0x000014f2      0x6d9 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_info    0x00001bcb      0x631 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .debug_info    0x000021fc       0xc6 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .debug_info    0x000022c2      0x6cb c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .debug_info    0x0000298d       0x84 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .debug_info    0x00002a11      0x289 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3\libgcc.a(lib2-divmod.o)
+ .debug_info    0x00002c9a      0x139 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_info    0x00002dd3      0x507 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_info    0x000032da      0x437 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x00003711      0x3da ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_info    0x00003aeb      0x1bc ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_info    0x00003ca7      0x19f ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x00003e46       0xd1 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(my9262.o)
+ .debug_info    0x00003f17      0x350 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_info    0x00004267      0x4e3 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_info    0x0000474a      0x1b9 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x00004903       0x8d ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_info    0x00004990       0x8d ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_info    0x00004a1d       0xa3 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x00004ac0      0x4f0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_info    0x00004fb0      0x3f0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_info    0x000053a0      0x2dd ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_info    0x0000567d       0x90 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_info    0x0000570d      0x30d ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x00005a1a      0x30c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_info    0x00005d26      0x339 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_info    0x0000605f      0x1eb c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-atexit.o)
+ .debug_info    0x0000624a       0xf8 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .debug_info    0x00006342       0xf1 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .debug_info    0x00006433      0x6fc c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__atexit.o)
+ .debug_info    0x00006b2f      0x70e c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000723d       0xec ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_abbrev   0x00000000     0x2374
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x14 ../Pov_Led_FPGA_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x00000014       0x78 obj/default/main.o
+ .debug_abbrev  0x0000008c      0x1e2 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-printf.o)
+ .debug_abbrev  0x0000026e      0x2db c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-vfprintf.o)
+ .debug_abbrev  0x00000549      0x1a8 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_abbrev  0x000006f1      0x13b c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000082c       0x7f c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .debug_abbrev  0x000008ab      0x199 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .debug_abbrev  0x00000a44       0x37 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x00000a7b      0x112 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3\libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x00000b8d       0xba ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x00000c47      0x133 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_abbrev  0x00000d7a      0x166 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x00000ee0       0xf7 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_abbrev  0x00000fd7       0xd5 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_abbrev  0x000010ac       0xd5 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x00001181       0x71 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(my9262.o)
+ .debug_abbrev  0x000011f2      0x11f ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_abbrev  0x00001311       0xd9 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x000013ea      0x114 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x000014fe       0x79 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_abbrev  0x00001577       0x79 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_abbrev  0x000015f0       0x5a ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x0000164a      0x114 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_abbrev  0x0000175e      0x148 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_abbrev  0x000018a6       0xde ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_abbrev  0x00001984       0x42 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_abbrev  0x000019c6       0xf0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x00001ab6       0xf0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_abbrev  0x00001ba6      0x10d ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_abbrev  0x00001cb3      0x115 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-atexit.o)
+ .debug_abbrev  0x00001dc8       0xa9 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .debug_abbrev  0x00001e71       0x7f c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x00001ef0      0x1f5 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x000020e5      0x1e9 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x000022ce       0xa6 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_line     0x00000000     0x2a59
+ *(.debug_line)
+ .debug_line    0x00000000       0x57 ../Pov_Led_FPGA_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x00000057       0xae obj/default/main.o
+ .debug_line    0x00000105      0x216 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-printf.o)
+ .debug_line    0x0000031b      0x401 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-vfprintf.o)
+ .debug_line    0x0000071c      0x222 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_line    0x0000093e      0x169 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .debug_line    0x00000aa7      0x171 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .debug_line    0x00000c18      0x209 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .debug_line    0x00000e21       0x5d c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .debug_line    0x00000e7e       0xd3 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3\libgcc.a(lib2-divmod.o)
+ .debug_line    0x00000f51       0xa4 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_line    0x00000ff5      0x1f8 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_line    0x000011ed      0x13d ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x0000132a      0x114 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_line    0x0000143e      0x101 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_line    0x0000153f       0xf8 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x00001637       0x63 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(my9262.o)
+ .debug_line    0x0000169a      0x186 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_line    0x00001820      0x119 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_line    0x00001939       0xd0 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x00001a09       0x59 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_line    0x00001a62       0x59 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_line    0x00001abb       0x51 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x00001b0c      0x154 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_line    0x00001c60      0x125 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_line    0x00001d85       0xae ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_line    0x00001e33       0x51 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_line    0x00001e84       0xb9 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x00001f3d       0xd5 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_line    0x00002012       0xd1 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_line    0x000020e3      0x16d c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-atexit.o)
+ .debug_line    0x00002250      0x16d c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .debug_line    0x000023bd      0x17c c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .debug_line    0x00002539      0x24b c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__atexit.o)
+ .debug_line    0x00002784      0x264 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_line    0x000029e8       0x71 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_frame    0x00000000      0x6dc
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x2c obj/default/main.o
+ .debug_frame   0x0000002c       0x40 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-printf.o)
+ .debug_frame   0x0000006c       0x48 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-vfprintf.o)
+ .debug_frame   0x000000b4       0x30 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_frame   0x000000e4       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .debug_frame   0x00000104       0x2c c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .debug_frame   0x00000130       0x70 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3\libgcc.a(lib2-divmod.o)
+ .debug_frame   0x000001a0       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x000001cc       0x48 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_frame   0x00000214       0x64 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x00000278       0x48 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_frame   0x000002c0       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_frame   0x000002ec       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x00000318       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(my9262.o)
+ .debug_frame   0x00000344       0x48 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_frame   0x0000038c       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_frame   0x000003b8       0x48 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x00000400       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_frame   0x0000042c       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_frame   0x00000458       0x48 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_frame   0x000004a0       0x64 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_frame   0x00000504       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_frame   0x00000530       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_frame   0x0000055c       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x00000588       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_frame   0x000005b4       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_frame   0x000005e0       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-atexit.o)
+ .debug_frame   0x00000600       0x28 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .debug_frame   0x00000628       0x20 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .debug_frame   0x00000648       0x30 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000678       0x38 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000006b0       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_str      0x00000000     0x1381
+ *(.debug_str)
+ .debug_str     0x00000000       0xb4 obj/default/main.o
+                                 0xf9 (size before relaxing)
+ .debug_str     0x000000b4      0x3c6 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-printf.o)
+                                0x4a6 (size before relaxing)
+ .debug_str     0x0000047a      0x19a c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-vfprintf.o)
+                                0x626 (size before relaxing)
+ .debug_str     0x00000614       0x7f c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                                0x481 (size before relaxing)
+ .debug_str     0x00000693       0xed c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+                                0x45b (size before relaxing)
+ .debug_str     0x00000780       0xd0 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+                                0x182 (size before relaxing)
+ .debug_str     0x00000850       0x3a c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+                                0x455 (size before relaxing)
+ .debug_str     0x0000088a       0x3d c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+                                0x175 (size before relaxing)
+ .debug_str     0x000008c7      0x104 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3\libgcc.a(lib2-divmod.o)
+                                0x15b (size before relaxing)
+ .debug_str     0x000009cb       0x9a ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o)
+                                0x144 (size before relaxing)
+ .debug_str     0x00000a65      0x166 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_write.o)
+                                0x29f (size before relaxing)
+ .debug_str     0x00000bcb      0x136 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o)
+                                0x2ac (size before relaxing)
+ .debug_str     0x00000d01       0x77 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                                0x27c (size before relaxing)
+ .debug_str     0x00000d78       0x48 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                                0x1c6 (size before relaxing)
+ .debug_str     0x00000dc0       0x4a ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                                0x1bc (size before relaxing)
+ .debug_str     0x00000e0a       0x3c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(my9262.o)
+                                0x11f (size before relaxing)
+ .debug_str     0x00000e46       0x1b ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_close.o)
+                                0x1b2 (size before relaxing)
+ .debug_str     0x00000e61       0x50 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev.o)
+                                0x2ac (size before relaxing)
+ .debug_str     0x00000eb1       0x4b ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                                0x173 (size before relaxing)
+ .debug_str     0x00000efc       0x48 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                                 0x83 (size before relaxing)
+ .debug_str     0x00000f44       0x4c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                                 0x82 (size before relaxing)
+ .debug_str     0x00000f90       0x14 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_errno.o)
+                                 0xec (size before relaxing)
+ .debug_str     0x00000fa4       0x56 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                                0x2bd (size before relaxing)
+ .debug_str     0x00000ffa       0x36 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_open.o)
+                                0x1f2 (size before relaxing)
+ .debug_str     0x00001030       0x28 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_release_fd.o)
+                                0x186 (size before relaxing)
+ .debug_str     0x00001058       0x3b ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                                0x103 (size before relaxing)
+ .debug_str     0x00001093       0x24 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_dev.o)
+                                0x193 (size before relaxing)
+ .debug_str     0x000010b7       0x26 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_file.o)
+                                0x1a1 (size before relaxing)
+ .debug_str     0x000010dd       0x30 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_get_fd.o)
+                                0x1c3 (size before relaxing)
+ .debug_str     0x0000110d      0x114 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-atexit.o)
+                                0x227 (size before relaxing)
+ .debug_str     0x00001221       0x4a c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+                                0x18d (size before relaxing)
+ .debug_str     0x0000126b       0x42 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+                                0x17c (size before relaxing)
+ .debug_str     0x000012ad       0x49 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__atexit.o)
+                                0x4a8 (size before relaxing)
+ .debug_str     0x000012f6       0x61 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+                                0x486 (size before relaxing)
+ .debug_str     0x00001357       0x2a ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_exit.o)
+                                 0xf8 (size before relaxing)
+
+.debug_loc      0x00000000     0x1b91
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x2c obj/default/main.o
+ .debug_loc     0x0000002c      0x125 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-printf.o)
+ .debug_loc     0x00000151      0xb02 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-vfprintf.o)
+ .debug_loc     0x00000c53      0x19e c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_loc     0x00000df1       0x29 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .debug_loc     0x00000e1a       0xde c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .debug_loc     0x00000ef8      0x338 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3\libgcc.a(lib2-divmod.o)
+ .debug_loc     0x00001230       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_loc     0x0000125c       0x58 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_loc     0x000012b4       0x84 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_loc     0x00001338       0x58 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_loc     0x00001390       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_loc     0x000013bc       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_loc     0x000013e8       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(my9262.o)
+ .debug_loc     0x00001414       0x58 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_loc     0x0000146c       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_loc     0x00001498       0x58 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_loc     0x000014f0       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_loc     0x0000151c       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_loc     0x00001548       0x58 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_loc     0x000015a0       0x84 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_loc     0x00001624       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_loc     0x00001650       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_loc     0x0000167c       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_loc     0x000016a8       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_loc     0x000016d4       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_loc     0x00001700       0x2c c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-atexit.o)
+ .debug_loc     0x0000172c       0x3e c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .debug_loc     0x0000176a       0x6f c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .debug_loc     0x000017d9      0x1f4 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__atexit.o)
+ .debug_loc     0x000019cd      0x198 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_loc     0x00001b65       0x2c ../Pov_Led_FPGA_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x00000000       0x20
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x00000000       0x20 ../Pov_Led_FPGA_bsp//obj/HAL/src/crt0.o
+                0x0000a800                __alt_data_end = 0xa800
+                0x0000a800                PROVIDE (__alt_stack_pointer, __alt_data_end)
+                0x0000a100                PROVIDE (__alt_stack_limit, __alt_stack_base)
+                0x0000a100                PROVIDE (__alt_heap_start, end)
+                0x0000a800                PROVIDE (__alt_heap_limit, 0xa800)
+OUTPUT(Pov_Led_FPGA.elf elf32-littlenios2)
+
+.debug_ranges   0x00000000      0x1d0
+ .debug_ranges  0x00000000      0x188 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-vfprintf.o)
+ .debug_ranges  0x00000188       0x18 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_ranges  0x000001a0       0x18 ../Pov_Led_FPGA_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_ranges  0x000001b8       0x18 c:/altera/13.1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.7.3/../../../../../H-i686-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)

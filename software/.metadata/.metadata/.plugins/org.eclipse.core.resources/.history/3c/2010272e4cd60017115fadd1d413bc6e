@@ -1,0 +1,30 @@
+#include "unistd.h"
+
+#include "my9262.h"
+#include "priv/alt_busy_sleep.h"
+#include "alt_types.h"
+
+extern alt_u32 my9262_Addr;
+
+void zircon_led_demo1()
+{
+	alt_u8 i;
+	for(i = 0; i <= 254; i++)
+	{
+		IOWR_MY9262_CONTROL(my9262_Addr,1);
+		IOWR_MY9262_DATA(my9262_Addr,~i);
+		usleep(50000);
+	}
+}
+
+void zircon_led_demo2(alt_u32 length ,alt_u32* led_data)
+{
+	alt_u8 i;
+
+	for(i = 0; i < length;i++)
+	{
+		IOWR_MY9262_CONTROL(my9262_Addr,1);
+		IOWR_MY9262_DATA(my9262_Addr, ~led_data[i]);
+		usleep(100000);
+	}
+}
